@@ -8,6 +8,10 @@ import Contact from "./C02012026/contact";
 import RegistrationForm from "./C01012026/form_exercise";
 import BookManager from "./C05012026/BookManager";
 import Calculator from "./C12012026/practice.jsx";
+import Display123 from "./C19012026/previous.jsx";
+import HookExample from "./F23012026/hook1.jsx";
+import HookExample1 from "./F23012026/hook2.jsx";
+import HookExample2 from "./F23012026/hook3.jsx";
 
 
 function App() {
@@ -22,7 +26,10 @@ return (
       {/* <ContactList /> */}
       {/* <BookManager/> */}
       {/* <Calculator/> */}
-      < Display123/>
+      {/* < Display123/> */}
+      {/* <HookExample/> */}
+      {/* <HookExample1/> */}
+      <HookExample2/>
       {/* <Contact/> */}
                               {/* <UserCard1 /> */}
       {/* <PropsClassExample
