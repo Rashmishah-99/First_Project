@@ -13,6 +13,7 @@ import HookExample from "./F23012026/hook1.jsx";
 import HookExample1 from "./F23012026/hook2.jsx";
 import HookExample2 from "./F23012026/hook3.jsx";
 import ContactLists from "./F30012026/hook4.jsx";
+import StudentGradeManagement from "./F13022026/usestatefull exercise.jsx";
 
 
 function App() {
@@ -31,7 +32,8 @@ return (
       {/* <HookExample/> */}
       {/* <HookExample1/> */}
       {/* <HookExample2/> */}
-      <ContactLists />
+      {/* <ContactLists /> */}
+      <StudentGradeManagement />
       {/* <Contact/> */}
                               {/* <UserCard1 /> */}
       {/* <PropsClassExample
