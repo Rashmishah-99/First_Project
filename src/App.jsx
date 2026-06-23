@@ -14,6 +14,9 @@ import HookExample1 from "./F23012026/hook2.jsx";
 import HookExample2 from "./F23012026/hook3.jsx";
 import ContactLists from "./F30012026/hook4.jsx";
 import StudentGradeManagement from "./F13022026/usestatefull exercise.jsx";
+import MaterialUITest from "./M23022026/materialuitest.jsx";
+import TodoList1 from "./M23022026/todolist1.jsx";
+import RegistrationFormNew from "./RegistrationApp/RegistrationForm.jsx";
 
 
 function App() {
@@ -22,6 +25,7 @@ function App() {
 // };
 return (
     <>
+      <RegistrationFormNew />
 {/* <RegistrationForm /> */}
       {/* <FormExercise /> */}
       {/* <TodoList /> */}
@@ -33,8 +37,10 @@ return (
       {/* <HookExample1/> */}
       {/* <HookExample2/> */}
       {/* <ContactLists /> */}
-      <StudentGradeManagement />
+      {/* <StudentGradeManagement /> */}
+      {/* <MaterialUITest/> */}
       {/* <Contact/> */}
+      {/* <TodoList1/> */}
                               {/* <UserCard1 /> */}
       {/* <PropsClassExample
       img_url="https://thegoldenreport.org/wp-content/uploads/2024/12/christmas-greetings-1629475661.jpg"
